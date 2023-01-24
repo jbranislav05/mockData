@@ -15,11 +15,5 @@
        "link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
        "review": 4.0
     }
-  ],
-  "errors": [
-    {
-      "code": "string",
-      "text": "string"
-    }
   ]
 }
