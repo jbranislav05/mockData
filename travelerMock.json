@@ -12,8 +12,8 @@
                 "paris-eiffeltower-1",
                 "paris-eiffeltower-2",
             ],
-       link: "https://en.wikipedia.org/wiki/Eiffel_Tower",
-       review: 4.0
+       "link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+       "review": 4.0
     }
   ],
   "errors": [
