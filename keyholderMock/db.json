@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "firstName": "Branislav",
+      "lastName": "Jovanovic"
+    }
+  ],
+  "errors": [
+    {
+      "code": "string",
+      "text": "string"
+    }
+  ]
+}
