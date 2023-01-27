@@ -13,6 +13,21 @@
       ],
       "link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
       "review": 4.0
+     },
+      
+     {
+      "name": "Pantheon",
+      "cityName": "Rome",
+      "coordinatesLatitude": 41.8986,
+      "coordinatesLongitude": 12.4769,
+      "description": "The Pantheon is a former Roman temple and since the year 609 a Catholic church, in Rome, Italy, on the site of an earlier temple commissioned by Marcus Agrippa during the reign of Augustus.",
+      "imageNames": [
+        "rome-pantheon-1",
+        "rome-pantheon-2",
+        "rome-pantheon-3"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+      "review": 4.2
      }
     ]
 }
